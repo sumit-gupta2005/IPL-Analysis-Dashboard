@@ -1,5 +1,4 @@
 # IPL-Analysis-Dashboard
-# IPL Data Analysis Dashboard
 
 ## Project Overview
 
